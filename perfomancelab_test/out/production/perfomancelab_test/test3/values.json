@@ -1,0 +1,60 @@
+{
+  "values": [
+    {
+      "id": 2,
+      "value": "passed"
+    },
+    {
+      "id": 41,
+      "value": "failed"
+    },
+    {
+      "id": 73,
+      "value": "passed"
+    },
+    {
+      "id": 110,
+      "value": "skipped"
+    },
+    {
+      "id": 122,
+      "value": "passed"
+    },
+    {
+      "id": 234,
+      "value": "failed"
+    },
+    {
+      "id": 238,
+      "value": "passed"
+    },
+    {
+      "id": 345,
+      "value": "passed"
+    },
+    {
+      "id": 653,
+      "value": "failed"
+    },
+    {
+      "id": 690,
+      "value": "skipped"
+    },
+    {
+      "id": 5321,
+      "value": "passed"
+    },
+    {
+      "id": 5322,
+      "value": "failed"
+    },
+    {
+      "id": 7000,
+      "value": "passed"
+    },
+    {
+      "id": 7001,
+      "value": "failed"
+    }
+  ]
+}
